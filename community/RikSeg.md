@@ -24,7 +24,7 @@ Estudante de Sistemas de Informação, com interesse em desenvolvimento Java, Py
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=green)&nbsp; 
 
 ### GitHub Stats
-![Rik's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikSeg&show_icons=true&theme=transparent)
+![Rik's GitHub stats](https://github-readme-stats.vercel.app/api?username=RikSeg&bg_color=000&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RikSeg&layout=compact&bg_color=000&show_icons=true&theme=transparent)
 
 
